@@ -212,7 +212,7 @@ section .title::after{
 }
 .projects .title::after{
     background: #111;
-    content: "Everything I made";
+    content: "What I do";
 }
 .projects .project-content .card{
     width: calc(33% - 20px);
